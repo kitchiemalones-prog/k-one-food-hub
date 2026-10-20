@@ -1,0 +1,1 @@
+{"version":2,"defects":{"Tests\\Feature\\ExampleTest::test_registered_users_are_redirected_to_their_role_dashboard":8},"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.003,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":1.817,"Tests\\Feature\\ExampleTest::test_registered_users_are_redirected_to_their_role_dashboard":4.05}}
